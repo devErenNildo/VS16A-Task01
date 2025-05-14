@@ -7,9 +7,9 @@ export default function Navbar () {
   return (
     <nav className={styles.navbar}>
       <ul className={styles.navLinks}>
-        <li><Link href="#">Home</Link></li>
-        <li><Link href="#">Sobre</Link></li>
-        <li><Link href="#">Contato</Link></li>
+        <li><Link href="/">Home</Link></li>
+        <li><Link href="/quemsomos">Quem Somos</Link></li>
+        <li><Link href="/contato">Contato</Link></li>
       </ul>
     </nav>
   );

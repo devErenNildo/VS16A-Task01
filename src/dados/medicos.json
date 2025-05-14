@@ -1,0 +1,90 @@
+[
+    {
+        "id": 0,
+        "nome": "Doutor Pedro Ap. Possari",
+        "especialidade": "Clinica Geral",
+        "img": "https://onmed.com.br/wp-content/uploads/2022/04/post_thumbnail-d30cd5d7a25e2bfad288a697f29c30a6.jpeg",
+        "horarios": [
+            "08:00",
+            "09:00",
+            "10:00"
+        ],
+        "descricao": [
+            "Olá! Sou o Doutor Pedro Ap. Possari, Clínico Geral com mais de 10 anos de experiência no cuidado integral à saúde de adultos e crianças. Ao longo da minha carreira, tenho me dedicado ao atendimento humanizado, buscando sempre ouvir com atenção e oferecer um diagnóstico preciso e um tratamento eficaz.",
+            "Graduado em Medicina, atuei em hospitais públicos e privados, além de participar de programas de saúde da família, o que me proporcionou uma ampla visão das necessidades da população.",
+            "Acredito que a prevenção é a chave para uma vida mais saudável. Por isso, trabalho com foco em orientar meus pacientes de forma clara, promovendo hábitos saudáveis e acompanhando de perto cada etapa do tratamento.",
+            "Estou sempre em busca de atualização profissional, participando de congressos e cursos na área da clínica geral para oferecer um atendimento baseado nas melhores práticas e evidências científicas.",
+            "Será um prazer cuidar da sua saúde com responsabilidade, empatia e compromisso."
+        ]
+    },
+    {
+        "id": 1,
+        "nome": "Doutor Erenildo Gomes",
+        "especialidade": "Ortopedia",
+        "img": "https://medicinadiaadia.com.br/wp-content/uploads/2020/08/shutterstock_1233048592.jpg",
+        "horarios": [
+            "11:00",
+            "13:00"
+        ],
+        "descricao": [
+            "Olá! Sou o Doutor Erenildo Gomes, Ortopedista com ampla experiência no diagnóstico e tratamento de lesões musculoesqueléticas. Ao longo da minha carreira, dedico-me a devolver qualidade de vida aos pacientes com dor ou limitação de movimento.",
+            "Graduado em Medicina, com especialização em Ortopedia, atuei em grandes centros hospitalares, lidando com casos complexos e procedimentos cirúrgicos e conservadores.",
+            "Acredito que o movimento é essencial para o bem-estar. Por isso, foco em terapias modernas e acompanhamento próximo da reabilitação dos meus pacientes.",
+            "Mantenho-me atualizado por meio de congressos e cursos na área ortopédica, buscando sempre a melhor conduta clínica baseada em evidências.",
+            "Será um prazer ajudar você a recuperar sua mobilidade e bem-estar."
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Doutor João de Barro",
+        "especialidade": "Infectologia",
+        "img": "https://storage.googleapis.com/marketplace-saudeid-blog/4_motivos_para_procurar_um_medico_clinico_geral_3c6a60f3af/4_motivos_para_procurar_um_medico_clinico_geral_3c6a60f3af.jpg",
+        "horarios": [
+            "14:00",
+            "15:00",
+            "16:00"
+        ],
+        "descricao": [
+            "Olá! Sou o Doutor João de Barro, Infectologista com experiência no diagnóstico, prevenção e tratamento de doenças infecciosas. Tenho como missão garantir a saúde dos meus pacientes com cuidado e responsabilidade.",
+            "Formado em Medicina, com residência em Infectologia, atuei em unidades especializadas no tratamento de infecções virais, bacterianas e parasitárias, além de trabalhar com controle de infecções hospitalares.",
+            "Valorizo a escuta ativa e explicações claras sobre o quadro clínico e as opções terapêuticas. Acredito que a informação e a prevenção são fundamentais no combate às doenças infecciosas.",
+            "Estou sempre em busca de novos conhecimentos, acompanhando diretrizes e avanços científicos para oferecer o melhor tratamento possível aos meus pacientes.",
+            "Conte comigo para um atendimento ético, empático e comprometido com a sua recuperação."
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Dra. Ana Lima",
+        "especialidade": "Pediatria",
+        "img": "https://www.febrasgo.org.br/media/k2/items/cache/4a731cb975d8a85e08e102d6760e988b_XL.jpg",
+        "horarios": [
+            "09:00",
+            "10:00"
+        ],
+        "descricao": [
+            "Olá! Sou a Dra. Ana Lima, Pediatra com mais de uma década dedicada à saúde e bem-estar das crianças. Meu compromisso é com o desenvolvimento saudável e feliz dos pequenos pacientes.",
+            "Formada em Medicina e especializada em Pediatria, atuei em hospitais e unidades básicas de saúde, acompanhando desde recém-nascidos até adolescentes.",
+            "Acredito que um cuidado acolhedor e atencioso faz toda a diferença para as famílias e para a criança. Sempre explico com carinho cada etapa do tratamento e da prevenção.",
+            "Estou em constante atualização por meio de cursos e congressos pediátricos, buscando oferecer condutas seguras e modernas para cada faixa etária.",
+            "Será uma alegria acompanhar o crescimento e a saúde do seu filho(a) com dedicação e empatia."
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Dr. Carlos Souza",
+        "especialidade": "Cardiologia",
+        "img": "https://st3.depositphotos.com/1049680/36075/i/450/depositphotos_360751008-stock-photo-handsome-bald-doctor-man-beard.jpg",
+        "horarios": [
+            "13:00",
+            "14:00",
+            "15:00"
+        ],
+        "descricao": [
+            "Olá! Sou o Dr. Carlos Souza, Cardiologista com sólida formação e experiência no cuidado da saúde do coração. Trabalho para prevenir, diagnosticar e tratar doenças cardiovasculares com precisão e atenção.",
+            "Graduado em Medicina e especializado em Cardiologia, atuei em hospitais de referência e ambulatórios cardiológicos, atendendo pacientes com hipertensão, arritmias, insuficiência cardíaca, entre outras condições.",
+            "Acredito que cuidar do coração é essencial para uma vida plena. Por isso, oriento mudanças no estilo de vida e acompanho de perto cada paciente com escuta e respeito.",
+            "Participo de congressos e atualizações constantes na área, visando oferecer tratamentos modernos e personalizados.",
+            "Conte comigo para um cuidado cardiológico humanizado, ético e comprometido com sua saúde."
+        ]
+    }
+]

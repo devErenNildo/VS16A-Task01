@@ -1,0 +1,56 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.card {
+    width: 300px;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.image {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.body {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.nome {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.especialidade {
+    color: #555;
+    margin-bottom: 1.5rem;
+}
+
+.botao {
+    margin-top: auto;
+    background-color: #0047ff;
+    color: white;
+    text-align: center;
+    padding: 0.6rem;
+    border-radius: 999px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+
+    &:hover {
+        background-color: #0033cc;
+    }
+}
