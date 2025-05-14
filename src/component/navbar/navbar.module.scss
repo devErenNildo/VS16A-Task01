@@ -1,0 +1,15 @@
+.navbar {
+  position: relative;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+
+  li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+}

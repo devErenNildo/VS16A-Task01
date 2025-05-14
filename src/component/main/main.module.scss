@@ -1,0 +1,67 @@
+.heroContainer {
+    background-color: #007bff;
+    padding: 3rem 10rem;
+    margin: 0 auto;
+    width: 100%;
+
+
+    .heroRow {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+
+        @media (min-width: 768px) {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+    }
+
+    .heroText {
+        text-align: center;
+
+        @media (min-width: 768px) {
+            text-align: left;
+            flex: 1;
+        }
+
+        h1 {
+            margin-bottom: 1rem;
+            font-size: 2rem;
+            color: #fff;
+        }
+
+        p {
+            font-size: 1.125rem;
+            color: #fff;
+        }
+
+        .heroButton {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 0.75rem 1.25rem;
+            background-color: #fff;
+            color: #0047ff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 0.25rem;
+            transition: background-color 0.3s;
+
+            &:hover {
+                background-color: #e6e6e6;
+            }
+        }
+    }
+
+    .heroImage {
+        text-align: center;
+        flex: 1;
+
+        img {
+            max-height: 400px;
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+        }
+    }
+}
