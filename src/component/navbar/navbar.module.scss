@@ -1,5 +1,8 @@
 .navbar {
   position: relative;
+  justify-content: center;
+  align-items: center;
+  top: -5;
 }
 
 .navLinks {
@@ -36,15 +39,16 @@
     position: absolute;
     top: 8vh;
     right: 0;
-    background-color: #fff;
+    background-color: #fffffff8;
 
     .navLinks {
+      display: flex;
       flex-direction: column;
       gap: 1rem;
       align-items: center;
-      text-align: center;
 
       li a {
+
         color: #0047ff;
       }
     }
