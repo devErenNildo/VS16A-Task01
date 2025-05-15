@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "nome": "Usuário 1",
+    "msg": "Este é um comentário de exemplo número 1. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/1.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 2,
+    "nome": "Usuário 2",
+    "msg": "Este é um comentário de exemplo número 2. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/2.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 3,
+    "nome": "Usuário 3",
+    "msg": "Este é um comentário de exemplo número 3. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/3.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 4,
+    "nome": "Usuário 4",
+    "msg": "Este é um comentário de exemplo número 4. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/4.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 5,
+    "nome": "Usuário 5",
+    "msg": "Este é um comentário de exemplo número 5. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/5.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 6,
+    "nome": "Usuário 6",
+    "msg": "Este é um comentário de exemplo número 6. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/6.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 7,
+    "nome": "Usuário 7",
+    "msg": "Este é um comentário de exemplo número 7. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/7.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 8,
+    "nome": "Usuário 8",
+    "msg": "Este é um comentário de exemplo número 8. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/8.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 9,
+    "nome": "Usuário 9",
+    "msg": "Este é um comentário de exemplo número 9. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/9.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 10,
+    "nome": "Usuário 10",
+    "msg": "Este é um comentário de exemplo número 10. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/10.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 11,
+    "nome": "Usuário 11",
+    "msg": "Este é um comentário de exemplo número 11. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/11.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 12,
+    "nome": "Usuário 12",
+    "msg": "Este é um comentário de exemplo número 12. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/12.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 13,
+    "nome": "Usuário 13",
+    "msg": "Este é um comentário de exemplo número 13. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/13.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 14,
+    "nome": "Usuário 14",
+    "msg": "Este é um comentário de exemplo número 14. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/14.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 15,
+    "nome": "Usuário 15",
+    "msg": "Este é um comentário de exemplo número 15. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/15.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 16,
+    "nome": "Usuário 16",
+    "msg": "Este é um comentário de exemplo número 16. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/16.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 17,
+    "nome": "Usuário 17",
+    "msg": "Este é um comentário de exemplo número 17. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/17.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 18,
+    "nome": "Usuário 18",
+    "msg": "Este é um comentário de exemplo número 18. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/18.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 19,
+    "nome": "Usuário 19",
+    "msg": "Este é um comentário de exemplo número 19. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/19.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 20,
+    "nome": "Usuário 20",
+    "msg": "Este é um comentário de exemplo número 20. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/20.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 21,
+    "nome": "Usuário 21",
+    "msg": "Este é um comentário de exemplo número 21. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/21.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 22,
+    "nome": "Usuário 22",
+    "msg": "Este é um comentário de exemplo número 22. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/22.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 23,
+    "nome": "Usuário 23",
+    "msg": "Este é um comentário de exemplo número 23. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/23.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 24,
+    "nome": "Usuário 24",
+    "msg": "Este é um comentário de exemplo número 24. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/24.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 25,
+    "nome": "Usuário 25",
+    "msg": "Este é um comentário de exemplo número 25. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/25.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 26,
+    "nome": "Usuário 26",
+    "msg": "Este é um comentário de exemplo número 26. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/26.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 27,
+    "nome": "Usuário 27",
+    "msg": "Este é um comentário de exemplo número 27. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/27.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 28,
+    "nome": "Usuário 28",
+    "msg": "Este é um comentário de exemplo número 28. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/28.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 29,
+    "nome": "Usuário 29",
+    "msg": "Este é um comentário de exemplo número 29. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/29.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 30,
+    "nome": "Usuário 30",
+    "msg": "Este é um comentário de exemplo número 30. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/30.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 31,
+    "nome": "Usuário 31",
+    "msg": "Este é um comentário de exemplo número 31. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/31.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 32,
+    "nome": "Usuário 32",
+    "msg": "Este é um comentário de exemplo número 32. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 33,
+    "nome": "Usuário 33",
+    "msg": "Este é um comentário de exemplo número 33. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/33.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 34,
+    "nome": "Usuário 34",
+    "msg": "Este é um comentário de exemplo número 34. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/34.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 35,
+    "nome": "Usuário 35",
+    "msg": "Este é um comentário de exemplo número 35. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/35.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 36,
+    "nome": "Usuário 36",
+    "msg": "Este é um comentário de exemplo número 36. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/36.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 37,
+    "nome": "Usuário 37",
+    "msg": "Este é um comentário de exemplo número 37. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/37.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 38,
+    "nome": "Usuário 38",
+    "msg": "Este é um comentário de exemplo número 38. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/38.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 39,
+    "nome": "Usuário 39",
+    "msg": "Este é um comentário de exemplo número 39. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/39.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 40,
+    "nome": "Usuário 40",
+    "msg": "Este é um comentário de exemplo número 40. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/40.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 41,
+    "nome": "Usuário 41",
+    "msg": "Este é um comentário de exemplo número 41. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/41.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 42,
+    "nome": "Usuário 42",
+    "msg": "Este é um comentário de exemplo número 42. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/42.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 43,
+    "nome": "Usuário 43",
+    "msg": "Este é um comentário de exemplo número 43. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/43.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 44,
+    "nome": "Usuário 44",
+    "msg": "Este é um comentário de exemplo número 44. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/44.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 45,
+    "nome": "Usuário 45",
+    "msg": "Este é um comentário de exemplo número 45. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "estrelas": 1
+  },
+  {
+    "id": 46,
+    "nome": "Usuário 46",
+    "msg": "Este é um comentário de exemplo número 46. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/46.jpg",
+    "estrelas": 2
+  },
+  {
+    "id": 47,
+    "nome": "Usuário 47",
+    "msg": "Este é um comentário de exemplo número 47. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/47.jpg",
+    "estrelas": 3
+  },
+  {
+    "id": 48,
+    "nome": "Usuário 48",
+    "msg": "Este é um comentário de exemplo número 48. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/48.jpg",
+    "estrelas": 4
+  },
+  {
+    "id": 49,
+    "nome": "Usuário 49",
+    "msg": "Este é um comentário de exemplo número 49. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/women/49.jpg",
+    "estrelas": 5
+  },
+  {
+    "id": 50,
+    "nome": "Usuário 50",
+    "msg": "Este é um comentário de exemplo número 50. Atendimento muito bom e eficiente!",
+    "img": "https://randomuser.me/api/portraits/men/50.jpg",
+    "estrelas": 1
+  }
+]

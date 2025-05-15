@@ -2,12 +2,17 @@ import React from "react";
 import Image from "next/image";
 import styles from "./quem_somos.module.scss";
 import medicos from "@/dados/medicos.json";
+import comments from "@/dados/comentarios.json";
 
 import imgMedicos from "@/../public/medico3.png";
 import MedicoCard from "@/component/medico_card/MedicoCard";
+import Comentario from "@/component/comentario/Comentario";
+import Link from "next/link";
 
 
 export default function QuemSomos() {
+
+    const primeirosComentarios = comments.slice(0, 6);
 
     return (
         <>
@@ -42,6 +47,25 @@ export default function QuemSomos() {
                 {medicos.map((medico) => (
                     <MedicoCard key={medico.id} medico={medico} />
                 ))}
+            </div>
+
+            <div className={styles.boxComent}>
+                <h3>O que as pessoas estão comentando</h3>
+                <div className={styles.containerComentario}>
+                    {primeirosComentarios.map((comment) => (
+                        <Comentario
+                            key={comment.id}
+                            nome={comment.nome}
+                            msg={comment.msg}
+                            img={comment.img}
+                            estrelas={comment.estrelas}
+                        />
+                    ))}
+
+                </div>
+                <div className={styles.buttonMais}>
+                    <Link href="/comentarios">Ver mais comentarios</Link>
+                </div>
             </div>
         </>
     );
