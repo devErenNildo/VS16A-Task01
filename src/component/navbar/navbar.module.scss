@@ -13,3 +13,46 @@
     font-weight: bold;
   }
 }
+
+.icon {
+  font-size: 2rem;
+  display: none;
+}
+
+// menu responsivo mobile
+
+@media (max-width: 768px) {
+  .icon {
+    display: flex;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  .menuAtivo {
+    display: flex;
+    width: 50%;
+    position: absolute;
+    top: 8vh;
+    right: 0;
+    background-color: #fff;
+
+    .navLinks {
+      flex-direction: column;
+      gap: 1rem;
+      align-items: center;
+      text-align: center;
+
+      li a {
+        color: #0047ff;
+      }
+    }
+  }
+
+  @media (max-width: 480px) {
+    .menuAtivo {
+      width: 100%;
+    }
+  }
+}
