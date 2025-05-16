@@ -1,8 +1,9 @@
 import React from "react";
 import { useAuth } from "@/context/AuthContext";
 
+
+const { logout } = useAuth();
 export default function Logado() {
-    const { logout } = useAuth();
     return (
         <>
             <h2>Ainda estamos trabalhando nisso, obrigado pela confiança...</h2>
