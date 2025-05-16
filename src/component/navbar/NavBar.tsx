@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { IoMenuSharp, IoClose } from "react-icons/io5";
 import styles from './navbar.module.scss';
 import Link from 'next/link';
+import BtnLogin from '../btnLogin/BtnLogin';
 
 export default function Navbar() {
 
@@ -18,13 +19,17 @@ export default function Navbar() {
         className={`${styles.navbar} ${ativo ? styles.menuAtivo : ""}`}
         onClick={alterarEstado}
       >
-        <ul className={styles.navLinks}>
-          <li><Link href="/">Home</Link></li>
-          <li><Link href="/quemsomos">Quem Somos</Link></li>
-          <li><Link href="/contato">Contato</Link></li>
-          <li><Link href="/blog">Blog</Link></li>
-        </ul>
+        <div className={styles.navLinks}>
+          <Link href="/">Home</Link>
+          <Link href="/quemsomos">Quem Somos</Link>
+          <Link href="/contato">Contato</Link>
+          <Link href="/blog">Blog</Link>
+          <div onClick={(e) => e.stopPropagation()}>
+            <BtnLogin />
+          </div>
+        </div>
       </nav>
+
 
       {
         ativo
