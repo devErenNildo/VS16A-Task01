@@ -17,6 +17,7 @@ export default function Header() {
                             src={logo}
                             alt="Logo DC - CLinica"
                             width={200}
+                            priority
                         />
                     </div>
 

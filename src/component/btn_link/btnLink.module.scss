@@ -1,0 +1,19 @@
+.container {
+    width: 15rem;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+
+    transition: all 0.3s ease;
+
+    &:hover {
+        filter: brightness(0.9);
+        transform: scale(1.03);
+    }
+
+    a {
+        text-decoration: none;
+        font-weight: bold;
+
+    }
+}

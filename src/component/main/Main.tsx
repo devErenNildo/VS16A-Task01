@@ -3,6 +3,7 @@ import Image from "next/image";
 import img from "@/../public/fundoMedico.png"
 
 import styles from "./main.module.scss"
+import BtnLink from "../btn_link/BtnLink";
 
 export default function Main() {
     return (
@@ -13,15 +14,18 @@ export default function Main() {
                         <div className={styles.heroText}>
                             <h1>Bem-vindo à Clínica Vida Saudável</h1>
                             <p>Cuidando da sua saúde com excelência e carinho</p>
-                            <a href="#agendamento" className={styles.heroButton}>Agende sua consulta</a>
+                            <BtnLink
+                                href="#"
+                                placeholder="Cadastre-se como medico"
+                                cor="#fff"
+                                
+                            />
                         </div>
 
                         <Image
                             src={img}
                             alt="Imagem Clínica"
-                            width={630}
-                            height={500}
-                            quality={100}
+                            className={styles.img}
                         />
                     </div>
                 </div>
